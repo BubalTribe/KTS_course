@@ -1,3 +1,1 @@
-#Git huit
-
-What an ass
+Ну че, народ, погнале
