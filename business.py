@@ -1,1 +1,2 @@
-print('Hello Git')
+s = [i for i in range(1, 100, 2)]
+print(s)
